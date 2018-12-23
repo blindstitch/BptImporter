@@ -1,4 +1,4 @@
-% BptImporter
+# BptImporter
 
 Importer for BrownPaperTickets's (broken) .xlsx files.
 
